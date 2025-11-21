@@ -7,9 +7,10 @@ export default function App() {
   return (
     <Router>
       <nav className="nav">
-        <Link to="/">Home</Link>
+        {/* <Link to="/">Home</Link>
         <Link to="/about">About Me</Link>
-        <Link to="/contact">Contact</Link>
+        <Link to="/contact">Contact</Link> */}
+        <p><strong>The Face Behind Gracogen IT Services</strong></p>
       </nav>
 
       <Routes>

@@ -25,30 +25,31 @@ export default function App() {
         </div>
         <div className="profile-name">
           <h1 data-testid="fullName">Grace Olumuyiwa</h1>
-          <h3 data-testid="jobTitle">Frontend Developer</h3>
+          <h3 data-testid="jobTitle">Technololgy Inclined</h3>
         </div>
       </div>
 
       {/* Right Column */}
       <div className="profile-right">
         <p data-testid="shortBio">
-          Passionate frontend developer skilled in React, TypeScript, and WordPress. Dedicated to creating intuitive and dynamic user interfaces.
+          Well, I started the most-exhausting career journey in 2022, although, played with some HTML, CSS & JavaScript during Covid period, got the grasp of WordPress, gradually made my way to Software Development. <br /> <br />  <strong>Now I am:</strong> <br /> A Software Developer (Intermediate level) <br /> Cybersecurity Analyst <br /> Data Analyst <br /> Python Developer (Beginner) <br /> And Currently, undergoing my Masters in Business Computing at the University of Ibadan, Nigeria.<br /><br />
+          <strong>My Slogan:</strong> "I don't know it because I never learnt it."
         </p>
         <p data-testid="currentLocation">
-          <strong>Location:</strong> Ibadan, Nigeria
+          <strong>Where can you find me:</strong> Ibadan, Nigeria
         </p>
         <p data-testid="emailAddress">
-          <strong>Email:</strong> gracogenolu30@gmail.com
+          <strong>Email:</strong> gracogenolu06@gmail.com
         </p>
 
         <div className="profile-social" data-testid="socialLinks">
-          <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+          <a href="https://linkedin.in/grace-muyiwa1988" target="_blank" rel="noopener noreferrer">
             <i className="fa-brands fa-linkedin"></i> LinkedIn
           </a>
-          <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/Gracogen" target="_blank" rel="noopener noreferrer">
             <i className="fa-brands fa-github"></i> GitHub
           </a>
-          <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
+          <a href="https://twitter.com/Code_With_Grace" target="_blank" rel="noopener noreferrer">
             <i className="fa-brands fa-twitter"></i> Twitter
           </a>
         </div>
